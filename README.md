@@ -48,7 +48,7 @@ const leonardo = {
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode,figma&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode,figma,tanStack&theme=dark&perline=9" />
 </div>
 
 <br/>
@@ -66,7 +66,7 @@ const leonardo = {
 ![Git](https://img.shields.io/badge/Git-FF0000?style=flat-square&logo=Gits&logoColor=white&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=Github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-3d99d4?style=flat-square&logo=VSCode)
-![Figma](https://img.shields.io/badge/Figma-3d99d4?style=flat-square&logo=Figma)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma)
 </div>
 
 ---
