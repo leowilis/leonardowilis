@@ -63,7 +63,9 @@ const leonardo = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF0000?style=flat-square&logo=Gits&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF0000?style=flat-square&logo=Gits&logoColor=white&logoColor=white)
+![Github](https://img.shields.io/badge/Github-20232A?style=flat-square&logo=Github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Vscode-20232A?style=flat-square&logo=Vscode&logoColor=blue)
 
 </div>
 
