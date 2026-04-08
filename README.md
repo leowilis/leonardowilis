@@ -77,8 +77,8 @@ const leonardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leowilis&show_icons=true&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&icon_color=00fff0&text_color=ffffff&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leowilis&show_icons=true&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&icon_color=00fff0&text_color=ffffff&border_radius=10&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_radius=10&cache_seconds=1800" height="180" />
 </div>
 
 <div align="center">
