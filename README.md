@@ -21,16 +21,16 @@
 
 ```js
 const leonardo = {
-  role     : "Frontend Developer in Progress",
-  focus    : "JavaScript Core + React + Next.js",
-  mindset  : "Consistency over motivation",
-  mission  : "Build real-world projects that matter",
-  future   : "Frontend → Fullstack Developer",
-  location : "Indonesia 🇮🇩",
+  role: 'Frontend Developer in Progress',
+  focus: 'JavaScript Core + React + Next.js',
+  mindset: 'Consistency over motivation',
+  mission: 'Build real-world projects that matter',
+  future: 'Frontend → Fullstack Developer',
+  location: 'Indonesia 🇮🇩',
 };
 ```
 
-> 💡 *I'm not just learning code — I'm building a strong foundation to become a high-quality developer.*
+> 💡 _I'm not just learning code — I'm building a strong foundation to become a high-quality developer._
 
 ---
 
@@ -77,8 +77,8 @@ const leonardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leowilis&show_icons=true&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&icon_color=00fff0&text_color=ffffff&border_radius=10&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_radius=10&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leowilis&show_icons=true&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&icon_color=00fff0&text_color=ffffff&border_radius=10&rank_icon=github&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_radius=10&langs_count=8" height="180" />
 </div>
 
 <div align="center">
@@ -97,12 +97,12 @@ const leonardo = {
 
 ## 🎯 2026 Goals
 
-| Status | Goal |
-|--------|------|
-| 🔄 | Master Frontend (HTML, CSS, JS, React, Next.js) |
-| 🔄 | Build 10+ solid projects |
-| 🔄 | Learn Backend with Node.js |
-| 🔄 | Land first opportunity in tech |
+| Status | Goal                                            |
+| ------ | ----------------------------------------------- |
+| 🔄     | Master Frontend (HTML, CSS, JS, React, Next.js) |
+| 🔄     | Build 10+ solid projects                        |
+| 🔄     | Learn Backend with Node.js                      |
+| 🔄     | Land first opportunity in tech                  |
 
 ---
 
@@ -110,7 +110,7 @@ const leonardo = {
 
 <div align="center">
 
-> *"Discipline beats talent when talent doesn't work hard."*
+> _"Discipline beats talent when talent doesn't work hard."_
 
 </div>
 
