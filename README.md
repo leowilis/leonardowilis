@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Leonardo%20Wilis&fontSize=35&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Leonardo Wilis</h1>
 
 <p align="center">
@@ -6,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Consistency+over+motivation;Building+real-world+projects;Future+Fullstack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Consistency+over+motivation;Building+real-world+projects;Future+Frontend+Developer" />
 </p>
 
 ---
@@ -15,10 +19,10 @@
 
 ```js
 const leonardo = {
-  focus: "Mastering JavaScript Fundamentals",
+  focus: "Frontend Development & JavaScript",
   mindset: "Consistency over motivation",
-  currentMission: "Build strong logic & real-world projects",
-  future: "Fullstack Developer"
+  currentMission: "Build real-world frontend projects",
+  future: "Frontend → Fullstack Developer"
 };
 
 💡 I’m not just learning code — I’m building a strong foundation to become a high-quality developer.
@@ -34,9 +38,16 @@ const leonardo = {
 
 ---
 
-## 🧠 Core Skills (Growing Daily)
+## 🧰 Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode" />
+</p>
 
 ---
 
@@ -54,7 +65,7 @@ const leonardo = {
 
 ## 🎯 2026 Goals
 
-* ✅ Master JavaScript fundamentals deeply
+* ✅ Master Frontend (HTML, CSS, JavaScript, React, Next.js)
 * 🔄 Build 10+ solid projects
 * 🚀 Learning Frontend to master (Node.js)
 * 💼 Land first opportunity in tech
@@ -63,7 +74,7 @@ const leonardo = {
 
 ## 📌 Featured Projects
 
-🚧 Coming Soon — Currently building and improving real-world projects every day.
+🚧 Coming Soon — building real projects consistently.
 
 ---
 
